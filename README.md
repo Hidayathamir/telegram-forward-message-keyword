@@ -3,7 +3,7 @@
 Simple script to forward telegram new message that contain your keyword.
 
 ## How To Run
-1. Get your api_id and api_hash in my.telegram.org
+1. Get your api_id and api_hash in [my.telegram.org](https://my.telegram.org)
 2. Use your api_id and api_hash in get-dialogs.py and `main.py`.
 3. Run get-dialogs.py, 
     ```
